@@ -4,7 +4,7 @@
 */
 window.SURVEY_CONFIG = {
   // 回答の受け取り側（Supabase）。Supabase の「Project Settings → API」（または Connect）にある値をそのまま貼る
-  supabaseUrl: '',   // Project URL（例：https://abcdefghijklmn.supabase.co）
+  supabaseUrl: 'https://izfklfxrlvvmnvnvkgdm.supabase.co',
   supabaseKey: '',   // Publishable key（sb_publishable_… で始まる）または anon public key。公開してよい鍵です（secret / service_role の鍵は絶対に入れない）
 
   // 同意画面の「問い合わせ先」に出す文（例：'工学院大学 ヒューマンインタフェース研究室 山岡（メール：…）'）
